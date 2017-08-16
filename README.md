@@ -6,11 +6,11 @@ The models are implemented in jupyter notebook (see http://jupyter.org/). Versio
 
 Five models are presented, the basic model and variations/extentions of the basic model:
 
-1. The basic model.
-2. One year vaccine protection. Basic model with protection after vaccination lasting only one year.
-3. Model with a leaky vaccine instead of a vaccine giving all-or-nothing protection.
-4. Age-stratified model with three age classes.
-5. The full model with age structure, a leaky vaccine, and two latent and infectious compartments.
+- The basic model (1).
+- One year vaccine protection. Basic model with protection after vaccination lasting only one year (2).
+- Model with a leaky vaccine instead of a vaccine giving all-or-nothing protection (3).
+- Age-stratified model with three age classes (4).
+- The full model with age structure, a leaky vaccine, and two latent and infectious compartments (5).
 
 
 1. The basic model
