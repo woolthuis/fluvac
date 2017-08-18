@@ -2,6 +2,8 @@
 
 This repository contains the models used in Woolthuis, R.G., et al. Variation in loss of immunity shapes influenza epidemics and the impact of vaccination (2017).
 
+Code is also available at https://zenodo.org/record/845465
+
 The models are implemented in jupyter notebook (see http://jupyter.org/). Versions: Python 2.7.11 |Anaconda 4.0.0 (x86_64)| IPython 4.1.2.
 
 Five models are presented, the basic model and variations/extentions of the basic model:
